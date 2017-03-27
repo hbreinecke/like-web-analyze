@@ -1,27 +1,8 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [2 Col Portfolio](http://startbootstrap.com/template-overviews/2-col-portfolio/)
+# Like Web Alaylze
 
-[2 Col Portfolio](http://startbootstrap.com/template-overviews/2-col-portfolio/) is a two column portfolio template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+## Example app with [one-minute-server](https://hbreinecke.github.io/2017/03/08/Server-1/)
 
-## Getting Started
+Getting data in seconds and build a usefull analyze like web-analytics.
 
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/2-col-portfolio/)
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-2-col-portfolio.git`
-* Fork the repo
 
-## Bugs and Issues
-
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-2-col-portfolio/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/2-col-portfolio/).
-
-## Creator
-
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
-
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
-
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
-
-Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-2-col-portfolio/blob/gh-pages/LICENSE) license.
+Data storage is local im memory, because for live data you do not need a permanent database.
